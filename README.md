@@ -6,8 +6,8 @@ Project description: create an image recognition machine learning algorithm to i
 This repo includes all the source code (written in MatLab) and the images used to training, testing, and validating the CNN algorithm.
 
 File inforamtion:
-RESIZING_IMAGES_V.m: resizes the images and crops out the scale bar (these are SEM images).
-RESIZING_IMAGES_V2_32x32.m: resizes images to 32x32 pixels.
-VALIDATION_64x64.m: CNN algorithm with validation (only handles images with dimensions 64x64).
-VALIDATION_TRACKING_TEST.m: CNN algorithm with output that graphically tracks training and testing accuricies and entropies.
-randomsplittingof225files.m: test code to ensure that images are randomly assigned to training, testing, and validation classes.
+# RESIZING_IMAGES_V.m: resizes the images and crops out the scale bar (these are SEM images).
+# RESIZING_IMAGES_V2_32x32.m: resizes images to 32x32 pixels.
+# VALIDATION_64x64.m: CNN algorithm with validation (only handles images with dimensions 64x64).
+# VALIDATION_TRACKING_TEST.m: CNN algorithm with output that graphically tracks training and testing accuricies and entropies.
+# randomsplittingof225files.m: test code to ensure that images are randomly assigned to training, testing, and validation classes.
